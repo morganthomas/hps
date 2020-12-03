@@ -1,0 +1,16 @@
+hps
+---
+
+[haskell](http://haskell.org) [postscript](http://adobe.com/products/postscript/)
+
+partial and trivial rendering of the post script drawing model.
+
+© [rohan drape](http://rd.slavepianos.org/) and others,
+2006-2017,
+[gpl](http://gnu.org/copyleft/).
+with contributions by:
+
+- declan murphy
+- henning thielemann
+
+see the [darcs](http://darcs.net/) [history](?t=hps&q=history) for details
